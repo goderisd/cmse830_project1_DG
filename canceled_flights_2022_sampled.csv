@@ -1,0 +1,185 @@
+FL_DATE,AIRLINE,AIRLINE_DOT,AIRLINE_CODE,DOT_CODE,FL_NUMBER,ORIGIN,ORIGIN_CITY,DEST,DEST_CITY,CRS_DEP_TIME,DEP_TIME,DEP_DELAY,TAXI_OUT,WHEELS_OFF,WHEELS_ON,TAXI_IN,CRS_ARR_TIME,ARR_TIME,ARR_DELAY,CANCELLED,CANCELLATION_CODE,DIVERTED,CRS_ELAPSED_TIME,ELAPSED_TIME,AIR_TIME,DISTANCE,DELAY_DUE_CARRIER,DELAY_DUE_WEATHER,DELAY_DUE_NAS,DELAY_DUE_SECURITY,DELAY_DUE_LATE_AIRCRAFT,Year
+2022-04-04,Envoy Air,Envoy Air: MQ,MQ,20398,4065,DFW,"Dallas/Fort Worth, TX",CRP,"Corpus Christi, TX",2119,,,,,,,2242,,,CANCELLED,B,NOT DIVERTED,83.0,,,354.0,,,,,,2022
+2022-08-17,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,508,DFW,"Dallas/Fort Worth, TX",FAT,"Fresno, CA",2234,,,,,,,2359,,,CANCELLED,B,NOT DIVERTED,205.0,,,1313.0,,,,,,2022
+2022-12-24,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,829,ABQ,"Albuquerque, NM",LAS,"Las Vegas, NV",2105,,,,,,,2145,,,CANCELLED,A,NOT DIVERTED,100.0,,,486.0,,,,,,2022
+2022-05-29,Spirit Air Lines,Spirit Air Lines: NK,NK,20416,935,BWI,"Baltimore, MD",MSY,"New Orleans, LA",2030,,,,,,,2212,,,CANCELLED,A,NOT DIVERTED,162.0,,,998.0,,,,,,2022
+2022-05-27,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,482,CLT,"Charlotte, NC",LAX,"Los Angeles, CA",1830,,,,,,,2043,,,CANCELLED,A,NOT DIVERTED,313.0,,,2125.0,,,,,,2022
+2022-07-14,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,2742,SMF,"Sacramento, CA",LAS,"Las Vegas, NV",1815,,,,,,,1935,,,CANCELLED,B,NOT DIVERTED,80.0,,,397.0,,,,,,2022
+2022-01-28,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,2382,LAS,"Las Vegas, NV",JFK,"New York, NY",2301,,,,,,,649,,,CANCELLED,B,NOT DIVERTED,288.0,,,2248.0,,,,,,2022
+2022-01-07,JetBlue Airways,JetBlue Airways: B6,B6,20409,125,JFK,"New York, NY",TPA,"Tampa, FL",1105,,,,,,,1415,,,CANCELLED,B,NOT DIVERTED,190.0,,,1005.0,,,,,,2022
+2022-10-03,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,769,MDW,"Chicago, IL",RSW,"Fort Myers, FL",1940,,,,,,,2325,,,CANCELLED,B,NOT DIVERTED,165.0,,,1105.0,,,,,,2022
+2022-01-03,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,3644,DTW,"Detroit, MI",EWR,"Newark, NJ",2255,,,,,,,36,,,CANCELLED,A,NOT DIVERTED,101.0,,,488.0,,,,,,2022
+2022-12-22,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,5077,DDC,"Dodge City, KS",LBL,"Liberal, KS",1041,,,,,,,1125,,,CANCELLED,B,NOT DIVERTED,44.0,,,74.0,,,,,,2022
+2022-01-03,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5455,DCA,"Washington, DC",SAV,"Savannah, GA",1751,,,,,,,1954,,,CANCELLED,B,NOT DIVERTED,123.0,,,519.0,,,,,,2022
+2022-06-15,United Air Lines Inc.,United Air Lines Inc.: UA,UA,19977,1550,EWR,"Newark, NJ",BOS,"Boston, MA",2129,,,,,,,2253,,,CANCELLED,C,NOT DIVERTED,84.0,,,200.0,,,,,,2022
+2022-01-14,Mesa Airlines Inc.,Mesa Airlines Inc.: YV,YV,20378,6145,ATL,"Atlanta, GA",IAD,"Washington, DC",1415,,,,,,,1602,,,CANCELLED,A,NOT DIVERTED,107.0,,,534.0,,,,,,2022
+2022-08-04,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,43,HOU,"Houston, TX",LAS,"Las Vegas, NV",1855,,,,,,,1955,,,CANCELLED,B,NOT DIVERTED,180.0,,,1235.0,,,,,,2022
+2022-01-01,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,863,JFK,"New York, NY",ATL,"Atlanta, GA",825,,,,,,,1112,,,CANCELLED,A,NOT DIVERTED,167.0,,,760.0,,,,,,2022
+2022-05-27,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5065,DCA,"Washington, DC",ALB,"Albany, NY",2230,,,,,,,2353,,,CANCELLED,B,NOT DIVERTED,83.0,,,318.0,,,,,,2022
+2022-01-16,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,1113,CLT,"Charlotte, NC",GRR,"Grand Rapids, MI",901,,,,,,,1108,,,CANCELLED,B,NOT DIVERTED,127.0,,,583.0,,,,,,2022
+2022-10-28,Mesa Airlines Inc.,Mesa Airlines Inc.: YV,YV,20378,5739,DFW,"Dallas/Fort Worth, TX",CID,"Cedar Rapids/Iowa City, IA",1544,,,,,,,1739,,,CANCELLED,B,NOT DIVERTED,115.0,,,685.0,,,,,,2022
+2022-06-02,Republic Airline,Republic Airline: YX,YX,20452,4598,LGA,"New York, NY",DTW,"Detroit, MI",1959,,,,,,,2219,,,CANCELLED,C,NOT DIVERTED,140.0,,,502.0,,,,,,2022
+2022-08-11,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1291,ELP,"El Paso, TX",SAT,"San Antonio, TX",1005,,,,,,,1225,,,CANCELLED,B,NOT DIVERTED,80.0,,,496.0,,,,,,2022
+2022-02-03,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1144,CLT,"Charlotte, NC",DAL,"Dallas, TX",1740,,,,,,,1940,,,CANCELLED,B,NOT DIVERTED,180.0,,,926.0,,,,,,2022
+2022-04-02,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,1796,LGA,"New York, NY",MIA,"Miami, FL",1259,,,,,,,1607,,,CANCELLED,C,NOT DIVERTED,188.0,,,1096.0,,,,,,2022
+2022-05-21,Republic Airline,Republic Airline: YX,YX,20452,5829,PWM,"Portland, ME",JFK,"New York, NY",600,,,,,,,720,,,CANCELLED,B,NOT DIVERTED,80.0,,,273.0,,,,,,2022
+2022-01-16,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1883,ATL,"Atlanta, GA",LGA,"New York, NY",1355,,,,,,,1605,,,CANCELLED,B,NOT DIVERTED,130.0,,,762.0,,,,,,2022
+2022-06-15,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5040,CLT,"Charlotte, NC",FWA,"Fort Wayne, IN",2214,,,,,,,2351,,,CANCELLED,A,NOT DIVERTED,97.0,,,460.0,,,,,,2022
+2022-06-22,Endeavor Air Inc.,Endeavor Air Inc.: 9E,9E,20363,5423,DTW,"Detroit, MI",JFK,"New York, NY",1945,,,,,,,2136,,,CANCELLED,C,NOT DIVERTED,111.0,,,509.0,,,,,,2022
+2022-02-05,Spirit Air Lines,Spirit Air Lines: NK,NK,20416,492,FLL,"Fort Lauderdale, FL",CMH,"Columbus, OH",1830,,,,,,,2106,,,CANCELLED,B,NOT DIVERTED,156.0,,,973.0,,,,,,2022
+2022-01-26,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5635,GSP,"Greer, SC",CLT,"Charlotte, NC",905,,,,,,,1020,,,CANCELLED,A,NOT DIVERTED,75.0,,,75.0,,,,,,2022
+2022-12-26,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,2111,MHT,"Manchester, NH",BWI,"Baltimore, MD",1745,,,,,,,1925,,,CANCELLED,A,NOT DIVERTED,100.0,,,377.0,,,,,,2022
+2022-01-11,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,5309,SMF,"Sacramento, CA",SFO,"San Francisco, CA",631,,,,,,,728,,,CANCELLED,D,NOT DIVERTED,57.0,,,86.0,,,,,,2022
+2022-12-24,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,575,LIT,"Little Rock, AR",PHX,"Phoenix, AZ",1020,,,,,,,1240,,,CANCELLED,A,NOT DIVERTED,200.0,,,1136.0,,,,,,2022
+2022-05-12,Alaska Airlines Inc.,Alaska Airlines Inc.: AS,AS,19930,165,ANC,"Anchorage, AK",OTZ,"Kotzebue, AK",915,911.0,-4.0,8.0,919.0,,,1045,,,CANCELLED,B,NOT DIVERTED,90.0,,,548.0,,,,,,2022
+2022-09-30,United Air Lines Inc.,United Air Lines Inc.: UA,UA,19977,2178,ORD,"Chicago, IL",SRQ,"Sarasota/Bradenton, FL",1040,,,,,,,1419,,,CANCELLED,B,NOT DIVERTED,159.0,,,1050.0,,,,,,2022
+2022-07-05,Republic Airline,Republic Airline: YX,YX,20452,3654,EWR,"Newark, NJ",GSP,"Greer, SC",2045,,,,,,,2252,,,CANCELLED,B,NOT DIVERTED,127.0,,,594.0,,,,,,2022
+2022-04-09,JetBlue Airways,JetBlue Airways: B6,B6,20409,1922,PBI,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",2125,,,,,,,28,,,CANCELLED,A,NOT DIVERTED,183.0,,,1197.0,,,,,,2022
+2022-04-03,Frontier Airlines Inc.,Frontier Airlines Inc.: F9,F9,20436,119,SJU,"San Juan, PR",MIA,"Miami, FL",229,,,,,,,521,,,CANCELLED,B,NOT DIVERTED,172.0,,,1045.0,,,,,,2022
+2022-06-14,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,2320,MYR,"Myrtle Beach, SC",CLT,"Charlotte, NC",1438,,,,,,,1539,,,CANCELLED,B,NOT DIVERTED,61.0,,,157.0,,,,,,2022
+2022-01-06,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,6160,PHX,"Phoenix, AZ",LAX,"Los Angeles, CA",625,,,,,,,655,,,CANCELLED,A,NOT DIVERTED,90.0,,,370.0,,,,,,2022
+2022-08-07,Envoy Air,Envoy Air: MQ,MQ,20398,3574,ORD,"Chicago, IL",DTW,"Detroit, MI",1515,,,,,,,1736,,,CANCELLED,C,NOT DIVERTED,81.0,,,235.0,,,,,,2022
+2022-10-09,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1421,RSW,"Fort Myers, FL",BWI,"Baltimore, MD",710,,,,,,,930,,,CANCELLED,B,NOT DIVERTED,140.0,,,919.0,,,,,,2022
+2022-03-09,Republic Airline,Republic Airline: YX,YX,20452,5726,LGA,"New York, NY",BOS,"Boston, MA",1800,,,,,,,1918,,,CANCELLED,A,NOT DIVERTED,78.0,,,184.0,,,,,,2022
+2022-06-24,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,2226,PDX,"Portland, OR",SLC,"Salt Lake City, UT",1002,,,,,,,1253,,,CANCELLED,A,NOT DIVERTED,111.0,,,630.0,,,,,,2022
+2022-01-05,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1433,MDW,"Chicago, IL",PIT,"Pittsburgh, PA",1750,,,,,,,2010,,,CANCELLED,B,NOT DIVERTED,80.0,,,402.0,,,,,,2022
+2022-01-02,Frontier Airlines Inc.,Frontier Airlines Inc.: F9,F9,20436,2051,MKE,"Milwaukee, WI",LAS,"Las Vegas, NV",1754,,,,,,,2001,,,CANCELLED,A,NOT DIVERTED,247.0,,,1524.0,,,,,,2022
+2022-01-02,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,3035,ORD,"Chicago, IL",LEX,"Lexington, KY",1542,,,,,,,1808,,,CANCELLED,B,NOT DIVERTED,86.0,,,323.0,,,,,,2022
+2022-01-09,Republic Airline,Republic Airline: YX,YX,20452,3691,EWR,"Newark, NJ",SAV,"Savannah, GA",2129,,,,,,,2359,,,CANCELLED,A,NOT DIVERTED,150.0,,,708.0,,,,,,2022
+2022-01-02,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5678,HPN,"White Plains, NY",DCA,"Washington, DC",608,,,,,,,718,,,CANCELLED,B,NOT DIVERTED,70.0,,,234.0,,,,,,2022
+2022-04-30,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,5761,ORD,"Chicago, IL",COS,"Colorado Springs, CO",1945,,,,,,,2132,,,CANCELLED,B,NOT DIVERTED,167.0,,,911.0,,,,,,2022
+2022-04-15,Spirit Air Lines,Spirit Air Lines: NK,NK,20416,3044,ACY,"Atlantic City, NJ",FLL,"Fort Lauderdale, FL",1810,,,,,,,2052,,,CANCELLED,B,NOT DIVERTED,162.0,,,977.0,,,,,,2022
+2022-01-07,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,1227,IAH,"Houston, TX",LGA,"New York, NY",610,,,,,,,1034,,,CANCELLED,B,NOT DIVERTED,204.0,,,1416.0,,,,,,2022
+2022-01-07,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,4638,BWI,"Baltimore, MD",JAX,"Jacksonville, FL",835,,,,,,,1045,,,CANCELLED,B,NOT DIVERTED,130.0,,,663.0,,,,,,2022
+2022-12-28,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,3052,DEN,"Denver, CO",IAH,"Houston, TX",535,,,,,,,900,,,CANCELLED,A,NOT DIVERTED,145.0,,,862.0,,,,,,2022
+2022-02-02,Republic Airline,Republic Airline: YX,YX,20452,3519,IAD,"Washington, DC",CVG,"Cincinnati, OH",2205,,,,,,,2344,,,CANCELLED,B,NOT DIVERTED,99.0,,,388.0,,,,,,2022
+2022-01-29,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,2662,MCI,"Kansas City, MO",LGA,"New York, NY",1120,,,,,,,1505,,,CANCELLED,B,NOT DIVERTED,165.0,,,1107.0,,,,,,2022
+2022-06-16,JetBlue Airways,JetBlue Airways: B6,B6,20409,607,FLL,"Fort Lauderdale, FL",LAS,"Las Vegas, NV",1914,,,,,,,2119,,,CANCELLED,C,NOT DIVERTED,305.0,,,2173.0,,,,,,2022
+2022-01-05,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,4503,DTW,"Detroit, MI",OMA,"Omaha, NE",1559,,,,,,,1714,,,CANCELLED,C,NOT DIVERTED,135.0,,,651.0,,,,,,2022
+2022-03-09,Endeavor Air Inc.,Endeavor Air Inc.: 9E,9E,20363,5309,LGA,"New York, NY",ROC,"Rochester, NY",800,,,,,,,919,,,CANCELLED,A,NOT DIVERTED,79.0,,,254.0,,,,,,2022
+2022-08-04,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,538,MDW,"Chicago, IL",TPA,"Tampa, FL",2200,,,,,,,130,,,CANCELLED,A,NOT DIVERTED,150.0,,,997.0,,,,,,2022
+2022-04-02,JetBlue Airways,JetBlue Airways: B6,B6,20409,2194,MCO,"Orlando, FL",HPN,"White Plains, NY",2023,,,,,,,2313,,,CANCELLED,A,NOT DIVERTED,170.0,,,972.0,,,,,,2022
+2022-02-04,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,194,MDW,"Chicago, IL",ALB,"Albany, NY",1305,,,,,,,1555,,,CANCELLED,B,NOT DIVERTED,110.0,,,717.0,,,,,,2022
+2022-02-23,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,4700,DEN,"Denver, CO",MFR,"Medford, OR",1130,,,,,,,1334,,,CANCELLED,B,NOT DIVERTED,184.0,,,964.0,,,,,,2022
+2022-01-12,United Air Lines Inc.,United Air Lines Inc.: UA,UA,19977,2652,SFO,"San Francisco, CA",BOS,"Boston, MA",1305,,,,,,,2130,,,CANCELLED,D,NOT DIVERTED,325.0,,,2704.0,,,,,,2022
+2022-08-09,Republic Airline,Republic Airline: YX,YX,20452,5597,DCA,"Washington, DC",BOS,"Boston, MA",1750,1757.0,7.0,,,,,1935,,,CANCELLED,B,NOT DIVERTED,105.0,,,399.0,,,,,,2022
+2022-02-03,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,585,CLT,"Charlotte, NC",CLE,"Cleveland, OH",2237,,,,,,,17,,,CANCELLED,B,NOT DIVERTED,100.0,,,430.0,,,,,,2022
+2022-02-25,Republic Airline,Republic Airline: YX,YX,20452,3623,PIT,"Pittsburgh, PA",EWR,"Newark, NJ",1225,,,,,,,1400,,,CANCELLED,B,NOT DIVERTED,95.0,,,319.0,,,,,,2022
+2022-11-04,Envoy Air,Envoy Air: MQ,MQ,20398,4139,CHA,"Chattanooga, TN",DFW,"Dallas/Fort Worth, TX",1624,,,,,,,1746,,,CANCELLED,B,NOT DIVERTED,142.0,,,695.0,,,,,,2022
+2022-01-15,Horizon Air,Horizon Air: QX,QX,19687,2388,SEA,"Seattle, WA",RDM,"Bend/Redmond, OR",1151,,,,,,,1258,,,CANCELLED,B,NOT DIVERTED,67.0,,,228.0,,,,,,2022
+2022-01-01,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,1539,ATL,"Atlanta, GA",EYW,"Key West, FL",810,,,,,,,1003,,,CANCELLED,A,NOT DIVERTED,113.0,,,646.0,,,,,,2022
+2022-08-07,United Air Lines Inc.,United Air Lines Inc.: UA,UA,19977,1612,EWR,"Newark, NJ",ORD,"Chicago, IL",1529,,,,,,,1706,,,CANCELLED,B,NOT DIVERTED,157.0,,,719.0,,,,,,2022
+2022-02-03,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1712,STL,"St. Louis, MO",DTW,"Detroit, MI",1915,,,,,,,2140,,,CANCELLED,B,NOT DIVERTED,85.0,,,440.0,,,,,,2022
+2022-11-06,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,3024,BNA,"Nashville, TN",ORD,"Chicago, IL",701,,,,,,,850,,,CANCELLED,B,NOT DIVERTED,109.0,,,409.0,,,,,,2022
+2022-12-08,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,5046,DEN,"Denver, CO",LBF,"North Platte, NE",1625,,,,,,,1825,,,CANCELLED,B,NOT DIVERTED,60.0,,,228.0,,,,,,2022
+2022-08-28,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1121,MDW,"Chicago, IL",ATL,"Atlanta, GA",1850,,,,,,,2140,,,CANCELLED,B,NOT DIVERTED,110.0,,,591.0,,,,,,2022
+2022-01-06,Republic Airline,Republic Airline: YX,YX,20452,3416,ATL,"Atlanta, GA",EWR,"Newark, NJ",1812,,,,,,,2030,,,CANCELLED,A,NOT DIVERTED,138.0,,,746.0,,,,,,2022
+2022-06-04,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,2726,ORD,"Chicago, IL",PHL,"Philadelphia, PA",957,,,,,,,1255,,,CANCELLED,B,NOT DIVERTED,118.0,,,678.0,,,,,,2022
+2022-04-03,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,1851,TPA,"Tampa, FL",PHL,"Philadelphia, PA",1709,,,,,,,1941,,,CANCELLED,B,NOT DIVERTED,152.0,,,920.0,,,,,,2022
+2022-01-08,Mesa Airlines Inc.,Mesa Airlines Inc.: YV,YV,20378,5880,DFW,"Dallas/Fort Worth, TX",CRP,"Corpus Christi, TX",2102,,,,,,,2226,,,CANCELLED,A,NOT DIVERTED,84.0,,,354.0,,,,,,2022
+2022-04-08,Allegiant Air,Allegiant Air: G4,G4,20368,411,AVL,"Asheville, NC",AUS,"Austin, TX",800,,,,,,,944,,,CANCELLED,A,NOT DIVERTED,164.0,,,950.0,,,,,,2022
+2022-06-11,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,655,PHX,"Phoenix, AZ",PHL,"Philadelphia, PA",1603,,,,,,,2342,,,CANCELLED,A,NOT DIVERTED,279.0,,,2075.0,,,,,,2022
+2022-05-13,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,1346,ATL,"Atlanta, GA",SJC,"San Jose, CA",1923,,,,,,,2124,,,CANCELLED,A,NOT DIVERTED,301.0,,,2116.0,,,,,,2022
+2022-07-28,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1539,DEN,"Denver, CO",BZN,"Bozeman, MT",1555,,,,,,,1740,,,CANCELLED,B,NOT DIVERTED,105.0,,,524.0,,,,,,2022
+2022-01-09,Mesa Airlines Inc.,Mesa Airlines Inc.: YV,YV,20378,5860,DFW,"Dallas/Fort Worth, TX",SBA,"Santa Barbara, CA",1027,,,,,,,1206,,,CANCELLED,A,NOT DIVERTED,219.0,,,1316.0,,,,,,2022
+2022-12-23,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,4324,CIU,"Sault Ste. Marie, MI",DTW,"Detroit, MI",1552,,,,,,,1721,,,CANCELLED,B,NOT DIVERTED,89.0,,,284.0,,,,,,2022
+2022-06-02,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,767,AMA,"Amarillo, TX",DAL,"Dallas, TX",600,,,,,,,715,,,CANCELLED,B,NOT DIVERTED,75.0,,,323.0,,,,,,2022
+2022-05-27,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5412,TYS,"Knoxville, TN",DCA,"Washington, DC",1047,,,,,,,1219,,,CANCELLED,A,NOT DIVERTED,92.0,,,437.0,,,,,,2022
+2022-03-13,Allegiant Air,Allegiant Air: G4,G4,20368,2490,SFB,"Sanford, FL",TVC,"Traverse City, MI",605,,,,,,,901,,,CANCELLED,A,NOT DIVERTED,176.0,,,1126.0,,,,,,2022
+2022-04-10,Spirit Air Lines,Spirit Air Lines: NK,NK,20416,1143,TPA,"Tampa, FL",MSP,"Minneapolis, MN",540,,,,,,,809,,,CANCELLED,A,NOT DIVERTED,209.0,,,1306.0,,,,,,2022
+2022-08-05,JetBlue Airways,JetBlue Airways: B6,B6,20409,931,BOS,"Boston, MA",LGA,"New York, NY",1500,1454.0,-6.0,,,,,1626,,,CANCELLED,C,NOT DIVERTED,86.0,,,184.0,,,,,,2022
+2022-07-18,Republic Airline,Republic Airline: YX,YX,20452,4614,LGA,"New York, NY",IND,"Indianapolis, IN",929,1724.0,475.0,,,,,1146,,,CANCELLED,B,NOT DIVERTED,137.0,,,660.0,,,,,,2022
+2022-12-23,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,591,ORD,"Chicago, IL",SEA,"Seattle, WA",1945,,,,,,,2232,,,CANCELLED,B,NOT DIVERTED,287.0,,,1721.0,,,,,,2022
+2022-07-25,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5079,MDT,"Harrisburg, PA",CLT,"Charlotte, NC",1945,,,,,,,2122,,,CANCELLED,B,NOT DIVERTED,97.0,,,413.0,,,,,,2022
+2022-12-28,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1719,AUS,"Austin, TX",OKC,"Oklahoma City, OK",1230,,,,,,,1350,,,CANCELLED,A,NOT DIVERTED,80.0,,,358.0,,,,,,2022
+2022-05-05,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,55,DAL,"Dallas, TX",HOU,"Houston, TX",2000,,,,,,,2110,,,CANCELLED,A,NOT DIVERTED,70.0,,,239.0,,,,,,2022
+2022-12-22,Mesa Airlines Inc.,Mesa Airlines Inc.: YV,YV,20378,5796,FSD,"Sioux Falls, SD",PHX,"Phoenix, AZ",1825,,,,,,,2022,,,CANCELLED,B,NOT DIVERTED,177.0,,,1081.0,,,,,,2022
+2022-07-28,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,3562,EWR,"Newark, NJ",MSP,"Minneapolis, MN",1805,,,,,,,2014,,,CANCELLED,C,NOT DIVERTED,189.0,,,1008.0,,,,,,2022
+2022-02-22,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,4126,IND,"Indianapolis, IN",MSP,"Minneapolis, MN",1255,,,,,,,1347,,,CANCELLED,B,NOT DIVERTED,112.0,,,503.0,,,,,,2022
+2022-01-06,Horizon Air,Horizon Air: QX,QX,19687,2183,SAN,"San Diego, CA",SBA,"Santa Barbara, CA",1045,,,,,,,1145,,,CANCELLED,A,NOT DIVERTED,60.0,,,192.0,,,,,,2022
+2022-12-26,United Air Lines Inc.,United Air Lines Inc.: UA,UA,19977,491,BZN,"Bozeman, MT",DEN,"Denver, CO",645,,,,,,,831,,,CANCELLED,A,NOT DIVERTED,106.0,,,524.0,,,,,,2022
+2022-05-20,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,1502,FLL,"Fort Lauderdale, FL",ATL,"Atlanta, GA",1155,1214.0,19.0,,,,,1344,,,CANCELLED,C,NOT DIVERTED,109.0,,,581.0,,,,,,2022
+2022-08-30,Republic Airline,Republic Airline: YX,YX,20452,4715,ILM,"Wilmington, NC",LGA,"New York, NY",1638,,,,,,,1829,,,CANCELLED,B,NOT DIVERTED,111.0,,,500.0,,,,,,2022
+2022-01-01,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,1346,ATL,"Atlanta, GA",MDW,"Chicago, IL",1005,,,,,,,1102,,,CANCELLED,B,NOT DIVERTED,117.0,,,591.0,,,,,,2022
+2022-04-03,Spirit Air Lines,Spirit Air Lines: NK,NK,20416,566,LAS,"Las Vegas, NV",IND,"Indianapolis, IN",2250,,,,,,,514,,,CANCELLED,B,NOT DIVERTED,204.0,,,1590.0,,,,,,2022
+2022-02-02,Envoy Air,Envoy Air: MQ,MQ,20398,4300,ORD,"Chicago, IL",HSV,"Huntsville, AL",1720,,,,,,,1909,,,CANCELLED,B,NOT DIVERTED,109.0,,,510.0,,,,,,2022
+2022-04-02,Republic Airline,Republic Airline: YX,YX,20452,4540,PIT,"Pittsburgh, PA",MIA,"Miami, FL",1601,,,,,,,1848,,,CANCELLED,B,NOT DIVERTED,167.0,,,1013.0,,,,,,2022
+2022-12-27,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,509,SFO,"San Francisco, CA",PHX,"Phoenix, AZ",1645,,,,,,,1940,,,CANCELLED,A,NOT DIVERTED,115.0,,,651.0,,,,,,2022
+2022-01-22,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,1289,RDU,"Raleigh/Durham, NC",MIA,"Miami, FL",600,,,,,,,811,,,CANCELLED,B,NOT DIVERTED,131.0,,,700.0,,,,,,2022
+2022-01-13,Horizon Air,Horizon Air: QX,QX,19687,2571,MSO,"Missoula, MT",SEA,"Seattle, WA",1505,,,,,,,1553,,,CANCELLED,B,NOT DIVERTED,108.0,,,389.0,,,,,,2022
+2022-06-12,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,1978,CLT,"Charlotte, NC",BOS,"Boston, MA",1750,,,,,,,1954,,,CANCELLED,A,NOT DIVERTED,124.0,,,728.0,,,,,,2022
+2022-07-26,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,2643,JFK,"New York, NY",CLT,"Charlotte, NC",630,,,,,,,825,,,CANCELLED,C,NOT DIVERTED,115.0,,,541.0,,,,,,2022
+2022-09-28,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1313,BUR,"Burbank, CA",LAS,"Las Vegas, NV",1755,,,,,,,1900,,,CANCELLED,A,NOT DIVERTED,65.0,,,223.0,,,,,,2022
+2022-12-25,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,685,DTW,"Detroit, MI",MDW,"Chicago, IL",645,,,,,,,710,,,CANCELLED,A,NOT DIVERTED,85.0,,,228.0,,,,,,2022
+2022-06-02,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1587,MCO,"Orlando, FL",BHM,"Birmingham, AL",1425,,,,,,,1455,,,CANCELLED,B,NOT DIVERTED,90.0,,,479.0,,,,,,2022
+2022-06-30,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,428,LGA,"New York, NY",DFW,"Dallas/Fort Worth, TX",640,,,,,,,934,,,CANCELLED,A,NOT DIVERTED,234.0,,,1389.0,,,,,,2022
+2022-07-24,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,1496,PBI,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",915,,,,,,,1055,,,CANCELLED,A,NOT DIVERTED,100.0,,,545.0,,,,,,2022
+2022-07-23,Republic Airline,Republic Airline: YX,YX,20452,3671,JAX,"Jacksonville, FL",ORD,"Chicago, IL",1652,,,,,,,1844,,,CANCELLED,B,NOT DIVERTED,172.0,,,864.0,,,,,,2022
+2022-03-14,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,633,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",1900,,,,,,,2318,,,CANCELLED,B,NOT DIVERTED,138.0,,,868.0,,,,,,2022
+2022-06-01,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,1582,DFW,"Dallas/Fort Worth, TX",CVG,"Cincinnati, OH",1655,,,,,,,2013,,,CANCELLED,B,NOT DIVERTED,138.0,,,812.0,,,,,,2022
+2022-01-03,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,418,ATL,"Atlanta, GA",DCA,"Washington, DC",1215,,,,,,,1349,,,CANCELLED,B,NOT DIVERTED,94.0,,,547.0,,,,,,2022
+2022-06-25,United Air Lines Inc.,United Air Lines Inc.: UA,UA,19977,2019,SMF,"Sacramento, CA",DEN,"Denver, CO",1614,,,,,,,1935,,,CANCELLED,A,NOT DIVERTED,141.0,,,909.0,,,,,,2022
+2022-07-21,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,314,JFK,"New York, NY",SFO,"San Francisco, CA",2110,,,,,,,106,,,CANCELLED,A,NOT DIVERTED,416.0,,,2586.0,,,,,,2022
+2022-01-21,Mesa Airlines Inc.,Mesa Airlines Inc.: YV,YV,20378,6010,BNA,"Nashville, TN",IAH,"Houston, TX",1255,,,,,,,1524,,,CANCELLED,A,NOT DIVERTED,149.0,,,657.0,,,,,,2022
+2022-11-09,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,2525,ORD,"Chicago, IL",MCO,"Orlando, FL",1330,,,,,,,1718,,,CANCELLED,B,NOT DIVERTED,168.0,,,1005.0,,,,,,2022
+2022-04-20,JetBlue Airways,JetBlue Airways: B6,B6,20409,276,SJU,"San Juan, PR",BDL,"Hartford, CT",1507,,,,,,,1907,,,CANCELLED,A,NOT DIVERTED,240.0,,,1666.0,,,,,,2022
+2022-01-09,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5727,DCA,"Washington, DC",ALB,"Albany, NY",2210,,,,,,,2335,,,CANCELLED,B,NOT DIVERTED,85.0,,,318.0,,,,,,2022
+2022-01-06,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,3965,DTW,"Detroit, MI",GRR,"Grand Rapids, MI",825,,,,,,,935,,,CANCELLED,A,NOT DIVERTED,70.0,,,120.0,,,,,,2022
+2022-02-04,Alaska Airlines Inc.,Alaska Airlines Inc.: AS,AS,19930,214,SFO,"San Francisco, CA",LAX,"Los Angeles, CA",740,,,,,,,911,,,CANCELLED,A,NOT DIVERTED,91.0,,,337.0,,,,,,2022
+2022-11-19,JetBlue Airways,JetBlue Airways: B6,B6,20409,1586,MCO,"Orlando, FL",BUF,"Buffalo, NY",1630,,,,,,,1906,,,CANCELLED,C,NOT DIVERTED,156.0,,,1011.0,,,,,,2022
+2022-06-20,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,1501,PHX,"Phoenix, AZ",SLC,"Salt Lake City, UT",1016,,,,,,,1259,,,CANCELLED,A,NOT DIVERTED,103.0,,,507.0,,,,,,2022
+2022-02-03,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,5648,ORD,"Chicago, IL",FWA,"Fort Wayne, IN",1800,,,,,,,2020,,,CANCELLED,B,NOT DIVERTED,80.0,,,157.0,,,,,,2022
+2022-11-10,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1722,MCO,"Orlando, FL",DAL,"Dallas, TX",810,,,,,,,1000,,,CANCELLED,B,NOT DIVERTED,170.0,,,973.0,,,,,,2022
+2022-02-03,Republic Airline,Republic Airline: YX,YX,20452,4944,DTW,"Detroit, MI",LGA,"New York, NY",1502,,,,,,,1700,,,CANCELLED,B,NOT DIVERTED,118.0,,,502.0,,,,,,2022
+2022-07-14,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,967,LAS,"Las Vegas, NV",LAX,"Los Angeles, CA",1948,,,,,,,2100,,,CANCELLED,C,NOT DIVERTED,72.0,,,236.0,,,,,,2022
+2022-06-09,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,335,LAS,"Las Vegas, NV",JFK,"New York, NY",2256,,,,,,,700,,,CANCELLED,A,NOT DIVERTED,304.0,,,2248.0,,,,,,2022
+2022-06-14,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,1846,MEM,"Memphis, TN",CLT,"Charlotte, NC",707,,,,,,,956,,,CANCELLED,A,NOT DIVERTED,109.0,,,511.0,,,,,,2022
+2022-09-29,Republic Airline,Republic Airline: YX,YX,20452,3693,JAX,"Jacksonville, FL",ORD,"Chicago, IL",1130,,,,,,,1313,,,CANCELLED,B,NOT DIVERTED,163.0,,,864.0,,,,,,2022
+2022-09-04,Republic Airline,Republic Airline: YX,YX,20452,3655,EWR,"Newark, NJ",SDF,"Louisville, KY",1652,,,,,,,1919,,,CANCELLED,B,NOT DIVERTED,147.0,,,642.0,,,,,,2022
+2022-12-23,United Air Lines Inc.,United Air Lines Inc.: UA,UA,19977,2112,DEN,"Denver, CO",IAH,"Houston, TX",2036,,,,,,,2355,,,CANCELLED,B,NOT DIVERTED,139.0,,,862.0,,,,,,2022
+2022-06-04,Mesa Airlines Inc.,Mesa Airlines Inc.: YV,YV,20378,5838,DFW,"Dallas/Fort Worth, TX",MAF,"Midland/Odessa, TX",840,,,,,,,953,,,CANCELLED,A,NOT DIVERTED,73.0,,,309.0,,,,,,2022
+2022-06-17,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5311,DCA,"Washington, DC",HSV,"Huntsville, AL",838,,,,,,,937,,,CANCELLED,B,NOT DIVERTED,119.0,,,613.0,,,,,,2022
+2022-07-30,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,524,DFW,"Dallas/Fort Worth, TX",LAX,"Los Angeles, CA",808,,,,,,,922,,,CANCELLED,A,NOT DIVERTED,194.0,,,1235.0,,,,,,2022
+2022-12-24,Allegiant Air,Allegiant Air: G4,G4,20368,947,PGD,"Punta Gorda, FL",IAG,"Niagara Falls, NY",700,,,,,,,948,,,CANCELLED,B,NOT DIVERTED,168.0,,,1129.0,,,,,,2022
+2022-12-23,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,3283,GCK,"Garden City, KS",DFW,"Dallas/Fort Worth, TX",600,,,,,,,730,,,CANCELLED,B,NOT DIVERTED,90.0,,,404.0,,,,,,2022
+2022-09-28,Spirit Air Lines,Spirit Air Lines: NK,NK,20416,1822,MSY,"New Orleans, LA",TPA,"Tampa, FL",833,,,,,,,1106,,,CANCELLED,B,NOT DIVERTED,93.0,,,488.0,,,,,,2022
+2022-07-21,Endeavor Air Inc.,Endeavor Air Inc.: 9E,9E,20363,5398,BTV,"Burlington, VT",LGA,"New York, NY",1816,,,,,,,1935,,,CANCELLED,B,NOT DIVERTED,79.0,,,258.0,,,,,,2022
+2022-04-19,JetBlue Airways,JetBlue Airways: B6,B6,20409,231,BOS,"Boston, MA",LGA,"New York, NY",600,,,,,,,718,,,CANCELLED,A,NOT DIVERTED,78.0,,,184.0,,,,,,2022
+2022-03-27,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,3367,PSP,"Palm Springs, CA",SFO,"San Francisco, CA",1400,,,,,,,1530,,,CANCELLED,D,NOT DIVERTED,90.0,,,421.0,,,,,,2022
+2022-02-17,Endeavor Air Inc.,Endeavor Air Inc.: 9E,9E,20363,4896,GSO,"Greensboro/High Point, NC",DTW,"Detroit, MI",1800,,,,,,,1952,,,CANCELLED,B,NOT DIVERTED,112.0,,,460.0,,,,,,2022
+2022-05-14,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,707,PHX,"Phoenix, AZ",JFK,"New York, NY",1038,,,,,,,1845,,,CANCELLED,A,NOT DIVERTED,307.0,,,2153.0,,,,,,2022
+2022-05-20,JetBlue Airways,JetBlue Airways: B6,B6,20409,711,JFK,"New York, NY",LAS,"Las Vegas, NV",1705,,,,,,,1955,,,CANCELLED,B,NOT DIVERTED,350.0,,,2248.0,,,,,,2022
+2022-02-24,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,2584,DFW,"Dallas/Fort Worth, TX",SAN,"San Diego, CA",1430,,,,,,,1535,,,CANCELLED,B,NOT DIVERTED,185.0,,,1171.0,,,,,,2022
+2022-12-23,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,2066,PHL,"Philadelphia, PA",MDW,"Chicago, IL",1435,,,,,,,1550,,,CANCELLED,B,NOT DIVERTED,135.0,,,668.0,,,,,,2022
+2022-10-05,United Air Lines Inc.,United Air Lines Inc.: UA,UA,19977,1097,DEN,"Denver, CO",RSW,"Fort Myers, FL",957,,,,,,,1538,,,CANCELLED,C,NOT DIVERTED,221.0,,,1607.0,,,,,,2022
+2022-01-18,Mesa Airlines Inc.,Mesa Airlines Inc.: YV,YV,20378,6049,GRR,"Grand Rapids, MI",IAH,"Houston, TX",845,,,,,,,1108,,,CANCELLED,A,NOT DIVERTED,203.0,,,1042.0,,,,,,2022
+2022-12-23,United Air Lines Inc.,United Air Lines Inc.: UA,UA,19977,1397,IAH,"Houston, TX",SEA,"Seattle, WA",1625,,,,,,,1928,,,CANCELLED,B,NOT DIVERTED,303.0,,,1874.0,,,,,,2022
+2022-01-28,United Air Lines Inc.,United Air Lines Inc.: UA,UA,19977,1583,IAH,"Houston, TX",EWR,"Newark, NJ",1700,,,,,,,2129,,,CANCELLED,B,NOT DIVERTED,209.0,,,1400.0,,,,,,2022
+2022-01-08,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,3229,ASE,"Aspen, CO",DFW,"Dallas/Fort Worth, TX",1026,,,,,,,1348,,,CANCELLED,B,NOT DIVERTED,142.0,,,701.0,,,,,,2022
+2022-02-03,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,2111,CMH,"Columbus, OH",ATL,"Atlanta, GA",1055,,,,,,,1231,,,CANCELLED,B,NOT DIVERTED,96.0,,,447.0,,,,,,2022
+2022-07-22,Endeavor Air Inc.,Endeavor Air Inc.: 9E,9E,20363,5361,PWM,"Portland, ME",LGA,"New York, NY",1952,,,,,,,2129,,,CANCELLED,A,NOT DIVERTED,97.0,,,269.0,,,,,,2022
+2022-04-03,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,4778,MKE,"Milwaukee, WI",BWI,"Baltimore, MD",520,,,,,,,805,,,CANCELLED,A,NOT DIVERTED,105.0,,,641.0,,,,,,2022
+2022-02-21,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,3277,PHX,"Phoenix, AZ",ASE,"Aspen, CO",1310,,,,,,,1450,,,CANCELLED,B,NOT DIVERTED,100.0,,,491.0,,,,,,2022
+2022-06-28,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,2297,VPS,"Valparaiso, FL",ATL,"Atlanta, GA",926,,,,,,,1140,,,CANCELLED,A,NOT DIVERTED,74.0,,,250.0,,,,,,2022
+2022-12-24,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,824,SFO,"San Francisco, CA",ATL,"Atlanta, GA",1416,,,,,,,2146,,,CANCELLED,A,NOT DIVERTED,270.0,,,2139.0,,,,,,2022
+2022-08-09,Delta Air Lines Inc.,Delta Air Lines Inc.: DL,DL,19790,378,LGA,"New York, NY",DFW,"Dallas/Fort Worth, TX",600,,,,,,,836,,,CANCELLED,A,NOT DIVERTED,216.0,,,1389.0,,,,,,2022
+2022-12-22,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,3449,SMF,"Sacramento, CA",DEN,"Denver, CO",825,,,,,,,1150,,,CANCELLED,B,NOT DIVERTED,145.0,,,909.0,,,,,,2022
+2022-12-27,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,255,PHX,"Phoenix, AZ",SMF,"Sacramento, CA",1725,,,,,,,1820,,,CANCELLED,A,NOT DIVERTED,115.0,,,647.0,,,,,,2022
+2022-12-02,Alaska Airlines Inc.,Alaska Airlines Inc.: AS,AS,19930,54,OTZ,"Kotzebue, AK",ANC,"Anchorage, AK",1232,,,,,,,1402,,,CANCELLED,B,NOT DIVERTED,90.0,,,548.0,,,,,,2022
+2022-06-07,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,2156,IAH,"Houston, TX",LGA,"New York, NY",648,,,,,,,1120,,,CANCELLED,A,NOT DIVERTED,212.0,,,1416.0,,,,,,2022
+2022-10-31,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,2196,MDW,"Chicago, IL",MEM,"Memphis, TN",815,,,,,,,950,,,CANCELLED,A,NOT DIVERTED,95.0,,,480.0,,,,,,2022
+2022-04-04,Envoy Air,Envoy Air: MQ,MQ,20398,3633,LCH,"Lake Charles, LA",DFW,"Dallas/Fort Worth, TX",1827,,,,,,,1955,,,CANCELLED,B,NOT DIVERTED,88.0,,,295.0,,,,,,2022
+2022-12-27,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,1272,BWI,"Baltimore, MD",SJU,"San Juan, PR",740,,,,,,,1240,,,CANCELLED,A,NOT DIVERTED,240.0,,,1565.0,,,,,,2022
+2022-02-01,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,1677,CLT,"Charlotte, NC",MCI,"Kansas City, MO",1616,,,,,,,1747,,,CANCELLED,B,NOT DIVERTED,151.0,,,808.0,,,,,,2022
+2022-01-20,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,2346,BNA,"Nashville, TN",ORD,"Chicago, IL",615,,,,,,,755,,,CANCELLED,B,NOT DIVERTED,100.0,,,409.0,,,,,,2022
+2022-06-04,Allegiant Air,Allegiant Air: G4,G4,20368,572,BNA,"Nashville, TN",EYW,"Key West, FL",1201,,,,,,,1512,,,CANCELLED,B,NOT DIVERTED,131.0,,,849.0,,,,,,2022
+2022-02-25,Frontier Airlines Inc.,Frontier Airlines Inc.: F9,F9,20436,2866,PBI,"West Palm Beach/Palm Beach, FL",ISP,"Islip, NY",1502,,,,,,,1745,,,CANCELLED,A,NOT DIVERTED,163.0,,,1052.0,,,,,,2022
+2022-12-24,Southwest Airlines Co.,Southwest Airlines Co.: WN,WN,19393,226,ALB,"Albany, NY",TPA,"Tampa, FL",1255,,,,,,,1605,,,CANCELLED,A,NOT DIVERTED,190.0,,,1130.0,,,,,,2022
+2022-05-23,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,1556,JFK,"New York, NY",CLT,"Charlotte, NC",1451,,,,,,,1655,,,CANCELLED,B,NOT DIVERTED,124.0,,,541.0,,,,,,2022
+2022-03-05,Allegiant Air,Allegiant Air: G4,G4,20368,3722,EYW,"Key West, FL",IND,"Indianapolis, IN",855,,,,,,,1140,,,CANCELLED,A,NOT DIVERTED,165.0,,,1078.0,,,,,,2022
+2022-06-17,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5038,AGS,"Augusta, GA",CLT,"Charlotte, NC",1805,,,,,,,1906,,,CANCELLED,B,NOT DIVERTED,61.0,,,140.0,,,,,,2022
+2022-01-06,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5138,BUF,"Buffalo, NY",DCA,"Washington, DC",1754,,,,,,,1916,,,CANCELLED,B,NOT DIVERTED,82.0,,,296.0,,,,,,2022
+2022-12-28,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,5149,DEN,"Denver, CO",SGU,"St. George, UT",2037,,,,,,,2230,,,CANCELLED,B,NOT DIVERTED,113.0,,,517.0,,,,,,2022
+2022-01-05,PSA Airlines Inc.,PSA Airlines Inc.: OH,OH,20397,5593,DCA,"Washington, DC",MSP,"Minneapolis, MN",849,,,,,,,1104,,,CANCELLED,B,NOT DIVERTED,195.0,,,931.0,,,,,,2022
+2022-05-23,American Airlines Inc.,American Airlines Inc.: AA,AA,19805,1316,DEN,"Denver, CO",CLT,"Charlotte, NC",1141,,,,,,,1659,,,CANCELLED,B,NOT DIVERTED,198.0,,,1337.0,,,,,,2022
+2022-01-05,SkyWest Airlines Inc.,SkyWest Airlines Inc.: OO,OO,20304,3708,SFO,"San Francisco, CA",SEA,"Seattle, WA",1043,,,,,,,1259,,,CANCELLED,B,NOT DIVERTED,136.0,,,679.0,,,,,,2022
