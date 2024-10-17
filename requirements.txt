@@ -1,11 +1,5 @@
-
 pandas==2.3.0
-
 streamlit==1.39.0
-
 seaborn==0.13.2
-
 matplotlib==3.9.2
-
-hiplot == 0.1.33
- 
+hiplot==0.1.33
